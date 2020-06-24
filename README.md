@@ -1,7 +1,7 @@
-# :smiley: ★★★★★ ♥
-Test first repo using GitHub guide. :smiley:
+# ★★★★★ ♥
+Test first repo using GitHub guide.
 
-
+Smileys are isn't showing on a site page.
 
 If you're a musician, it's not meant that you can't code.
 
